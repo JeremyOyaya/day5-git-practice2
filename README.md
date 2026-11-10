@@ -2,11 +2,10 @@
 
 My name is Jeremy.
 
-My first repository at PROFPLANET ACADEMY
-
+My first repository at **Profplanet Academy**
 what ive learned today
 
 - How to create commits
 - How to push to Github
 
-Find me on Github:(https;//github.com/jeremyoyaya).
+Find me on Github:(https://github.com/jeremyoyaya).
